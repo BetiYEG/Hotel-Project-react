@@ -12,7 +12,7 @@ export default function Carousel() {
                 <img
                   className="w-100 h-auto"
                   src={carouselData[0].img}
-                  alt="Image"
+                  alt="Ime"
                   style={{ maxHeight: "700px" }}
                 />
                 <div className="carousel-caption d-flex justify-content-end align-items-center" style={{ right: "0", bottom: "0%" }}>
@@ -21,7 +21,7 @@ export default function Carousel() {
                     style={{ opacity: 0.7, width: "500px", height: "150px" }}
                   >
                     <h3 className="">Welcome to</h3>
-                    <img src="assets/img/Group.png" alt="Image" style={{ height: "80px", marginBottom: "rem" }} />
+                    <img src="assets/img/Group.png" alt="Img" style={{ height: "80px", marginBottom: "rem" }} />
                   </div>
                 </div>
               </div>
