@@ -1,0 +1,10 @@
+{
+    "presets": [
+      "@babel/preset-env", // or your other presets like "@babel/preset-react"
+      "@babel/preset-react"
+    ],
+    "plugins": [
+      "@babel/plugin-proposal-private-property-in-object"
+    ]
+  }
+  
